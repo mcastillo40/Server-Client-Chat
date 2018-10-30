@@ -1,19 +1,19 @@
 # Server-Client-Chat
 A simple socket chat connection between a java server and C client
 
-#Make server
+# Make server
 enter: javac ChatServe.java
 
-#Make client
+# Make client
 enter: make
 
-#Start Server
+# Start Server
 java ChatServe {port number}
 
-#Start Client
+# Start Client
 ./chatClient {hostname (ex:localhost)} {port number}
 
-#Begin
+# Begin
 Client will be asked to enter a handle name
 
 
